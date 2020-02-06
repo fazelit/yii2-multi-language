@@ -2,7 +2,7 @@
 
 ## Install:
 ```bash
-composer require fazelit/yii2-multilanguage
+composer require  fazelit/yii2-multilanguage
 ```
 
 ## Enable multi language support in your website:
