@@ -3,13 +3,13 @@
 namespace abcms\multilanguage;
 
 use Yii;
-use yii\base\Object;
+use yii\base\BaseObject;
 use abcms\multilanguage\models\Translation;
 
 /**
  * MultiLanguage Main Class
  */
-class Multilanguage extends Object implements MultilanguageInterface
+class Multilanguage extends BaseObject implements MultilanguageInterface
 {
 
     /**
