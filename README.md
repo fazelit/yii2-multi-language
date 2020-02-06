@@ -1,8 +1,8 @@
-# Yii2 ABCMS Multi Language 
+# Yii2 Fazelit Multi Language 
 
 ## Install:
 ```bash
-composer require abcms/yii2-multilanguage
+composer require fazelit/yii2-multilanguage
 ```
 
 ## Enable multi language support in your website:
