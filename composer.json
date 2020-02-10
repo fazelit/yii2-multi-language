@@ -9,14 +9,15 @@
     "support": {
     },
     "require": {
+        "php": ">=7.2.0",
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": {"abcms\\multilanguage\\": ""}
+        "psr-4": {"fazelit\\multilanguage\\": ""}
     },
     "bin": [
     ],
     "extra": {
-        "bootstrap": "abcms\\multilanguage\\Bootstrap"
+        "bootstrap": "fazelit\\multilanguage\\Bootstrap"
     }
 }
